@@ -1,0 +1,1853 @@
+State - Place,Year,Population,Kulkarni - Rank
+ NY - New York City,1990,7322564,1
+ CA - Los Angeles,1990,3485398,2
+ IL - Chicago,1990,2783726,3
+ TX - Houston,1990,1630553,4
+ PA - Philadelphia,1990,1585577,5
+ CA - San Diego,1990,1110549,6
+ MI - Detroit,1990,1027974,7
+ TX - Dallas,1990,1006877,8
+ AZ - Phoenix,1990,983403,9
+ TX - San Antonio,1990,935933,10
+ CA - San Jose,1990,782248,11
+ MD - Baltimore,1990,736014,12
+ IN - Indianapolis,1990,731327,13
+ CA - San Francisco,1990,723959,14
+ FL - Jacksonville,1990,635230,15
+ OH - Columbus,1990,632910,16
+ WI - Milwaukee,1990,628088,17
+ TN - Memphis,1990,610337,18
+ DC - Washington,1990,606900,19
+ MA - Boston,1990,574283,20
+ WA - Seattle,1990,516259,21
+ TX - El Paso,1990,515342,22
+ OH - Cleveland,1990,505616,23
+ LA - New Orleans,1990,496938,24
+ TN - Nashville-Davidson,1990,488374,25
+ CO - Denver,1990,467610,26
+ TX - Austin,1990,465622,27
+ TX - Fort Worth,1990,447619,28
+ OK - Oklahoma City,1990,444719,29
+ OR - Portland,1990,437319,30
+ MO - Kansas City,1990,435146,31
+ CA - Long Beach,1990,429433,32
+ AZ - Tucson,1990,405390,33
+ MO - St. Louis,1990,396685,34
+ NC - Charlotte,1990,395934,35
+ GA - Atlanta,1990,394017,36
+ VA - Virginia Beach,1990,393069,37
+ NM - Albuquerque,1990,384736,38
+ CA - Oakland,1990,372242,39
+ PA - Pittsburgh,1990,369879,40
+ CA - Sacramento,1990,369365,41
+ MN - Minneapolis,1990,368383,42
+ OK - Tulsa,1990,367302,43
+ HI - Honolulu,1990,365272,44
+ OH - Cincinnati,1990,364040,45
+ FL - Miami,1990,358548,46
+ CA - Fresno,1990,354202,47
+ NE - Omaha,1990,335795,48
+ OH - Toledo,1990,332943,49
+ NY - Buffalo,1990,328123,50
+ KS - Wichita,1990,304011,51
+ CA - Santa Ana,1990,293742,52
+ AZ - Mesa,1990,288091,53
+ CO - Colorado Springs,1990,281140,54
+ FL - Tampa,1990,280015,55
+ NJ - Newark,1990,275221,56
+ MN - Saint Paul,1990,272235,57
+ KY - Louisville,1990,269063,58
+ CA - Anaheim,1990,266406,59
+ AL - Birmingham,1990,265968,60
+ TX - Arlington,1990,261721,61
+ VA - Norfolk,1990,261229,62
+ NV - Las Vegas,1990,258295,63
+ TX - Corpus Christi,1990,257453,64
+ FL - St. Petersburg,1990,238629,65
+ NY - Rochester,1990,231636,66
+ NJ - Jersey City,1990,228537,67
+ CA - Riverside,1990,226505,68
+ AK - Anchorage,1990,226338,69
+ KY - Lexington,1990,225366,70
+ OH - Akron,1990,223019,71
+ CO - Aurora,1990,222103,72
+ LA - Baton Rouge,1990,219531,73
+ CA - Stockton,1990,210943,74
+ NC - Raleigh,1990,207951,75
+ VA - Richmond,1990,203056,76
+ LA - Shreveport,1990,198525,77
+ MS - Jackson,1990,196637,78
+ AL - Mobile,1990,196278,79
+ IA - Des Moines,1990,193187,80
+ NE - Lincoln,1990,191972,81
+ WI - Madison,1990,191262,82
+ MI - Grand Rapids,1990,189126,83
+ NY - Yonkers,1990,188082,84
+ FL - Hialeah,1990,188004,85
+ AL - Montgomery,1990,187106,86
+ TX - Lubbock,1990,186206,87
+ NC - Greensboro,1990,183521,88
+ OH - Dayton,1990,182044,89
+ CA - Huntington Beach,1990,181519,90
+ TX - Garland,1990,180650,91
+ CA - Glendale,1990,180038,92
+ GA - Columbus,1990,178681,93
+ WA - Spokane,1990,177196,94
+ WA - Tacoma,1990,176664,95
+ AR - Little Rock,1990,175795,96
+ CA - Bakersfield,1990,174820,97
+ CA - Fremont,1990,173339,98
+ IN - Fort Wayne,1990,173072,99
+ VA - Arlington,1990,170936,100
+ NY - New York City,1980,7071639,1
+ IL - Chicago,1980,3005072,2
+ CA - Los Angeles,1980,2966850,3
+ PA - Philadelphia,1980,1688210,4
+ TX - Houston,1980,1595138,5
+ MI - Detroit,1980,1203339,6
+ TX - Dallas,1980,904078,7
+ CA - San Diego,1980,875538,8
+ AZ - Phoenix,1980,789704,9
+ MD - Baltimore,1980,786775,10
+ TX - San Antonio,1980,785880,11
+ IN - Indianapolis,1980,700807,12
+ CA - San Francisco,1980,678974,13
+ TN - Memphis,1980,646356,14
+ DC - Washington,1980,638333,15
+ WI - Milwaukee,1980,636212,16
+ CA - San Jose,1980,629442,17
+ OH - Cleveland,1980,573822,18
+ OH - Columbus,1980,564871,19
+ MA - Boston,1980,562994,20
+ LA - New Orleans,1980,557515,21
+ FL - Jacksonville,1980,540920,22
+ WA - Seattle,1980,493846,23
+ CO - Denver,1980,492365,24
+ TN - Nashville-Davidson,1980,455651,25
+ MO - St. Louis,1980,453085,26
+ MO - Kansas City,1980,448159,27
+ TX - El Paso,1980,425259,28
+ GA - Atlanta,1980,425022,29
+ PA - Pittsburgh,1980,423938,30
+ OK - Oklahoma City,1980,403213,31
+ OH - Cincinnati,1980,385457,32
+ TX - Fort Worth,1980,385164,33
+ MN - Minneapolis,1980,370951,34
+ OR - Portland,1980,366383,35
+ HI - Honolulu,1980,365048,36
+ CA - Long Beach,1980,361334,37
+ OK - Tulsa,1980,360919,38
+ NY - Buffalo,1980,357870,39
+ OH - Toledo,1980,354635,40
+ FL - Miami,1980,346865,41
+ TX - Austin,1980,345496,42
+ CA - Oakland,1980,339337,43
+ NM - Albuquerque,1980,331767,44
+ AZ - Tucson,1980,330537,45
+ NJ - Newark,1980,329248,46
+ NC - Charlotte,1980,314447,47
+ NE - Omaha,1980,314255,48
+ KY - Louisville,1980,298451,49
+ AL - Birmingham,1980,284413,50
+ KS - Wichita,1980,279272,51
+ CA - Sacramento,1980,275741,52
+ FL - Tampa,1980,271523,53
+ MN - Saint Paul,1980,270230,54
+ VA - Norfolk,1980,266979,55
+ VA - Virginia Beach,1980,262199,56
+ NY - Rochester,1980,241741,57
+ FL - St. Petersburg,1980,238647,58
+ OH - Akron,1980,237177,59
+ TX - Corpus Christi,1980,231999,60
+ NJ - Jersey City,1980,223532,61
+ LA - Baton Rouge,1980,219419,62
+ CA - Anaheim,1980,219311,63
+ VA - Richmond,1980,219214,64
+ CA - Fresno,1980,218202,65
+ CO - Colorado Springs,1980,215150,66
+ LA - Shreveport,1980,205820,67
+ KY - Lexington,1980,204165,68
+ CA - Santa Ana,1980,203713,69
+ OH - Dayton,1980,203371,70
+ MS - Jackson,1980,202895,71
+ AL - Mobile,1980,200452,72
+ NY - Yonkers,1980,195351,73
+ IA - Des Moines,1980,191003,74
+ MI - Grand Rapids,1980,181843,75
+ AL - Montgomery,1980,177857,76
+ TN - Knoxville,1980,175030,77
+ AK - Anchorage,1980,174431,78
+ TX - Lubbock,1980,173979,79
+ IN - Fort Wayne,1980,172196,80
+ NE - Lincoln,1980,171932,81
+ WA - Spokane,1980,171300,82
+ CA - Riverside,1980,170876,83
+ WI - Madison,1980,170616,84
+ CA - Huntington Beach,1980,170505,85
+ NY - Syracuse,1980,170105,86
+ TN - Chattanooga,1980,169565,87
+ GA - Columbus,1980,169441,88
+ NV - Las Vegas,1980,164674,89
+ LA - Metairie,1980,164160,90
+ UT - Salt Lake City,1980,163033,91
+ MA - Worcester,1980,161799,92
+ MI - Warren,1980,161134,93
+ KS - Kansas City,1980,161087,94
+ TX - Arlington,1980,160113,95
+ MI - Flint,1980,159611,96
+ CO - Aurora,1980,158588,97
+ WA - Tacoma,1980,158501,98
+ AR - Little Rock,1980,158461,99
+ RI - Providence,1980,156804,100
+ NY - New York City,1970,7894862,1
+ IL - Chicago,1970,3366957,2
+ CA - Los Angeles,1970,2816061,3
+ PA - Philadelphia,1970,1948609,4
+ MI - Detroit,1970,1511482,5
+ TX - Houston,1970,1232802,6
+ MD - Baltimore,1970,905759,7
+ TX - Dallas,1970,844401,8
+ DC - Washington,1970,756510,9
+ OH - Cleveland,1970,750903,10
+ IN - Indianapolis,1970,744624,11
+ WI - Milwaukee,1970,717099,12
+ CA - San Francisco,1970,715674,13
+ CA - San Diego,1970,696769,14
+ TX - San Antonio,1970,654153,15
+ MA - Boston,1970,641071,16
+ TN - Memphis,1970,623530,17
+ MO - St. Louis,1970,622236,18
+ LA - New Orleans,1970,593471,19
+ AZ - Phoenix,1970,581562,20
+ OH - Columbus,1970,539677,21
+ WA - Seattle,1970,530831,22
+ FL - Jacksonville,1970,528865,23
+ PA - Pittsburgh,1970,520117,24
+ CO - Denver,1970,514678,25
+ MO - Kansas City,1970,507087,26
+ GA - Atlanta,1970,496973,27
+ NY - Buffalo,1970,462768,28
+ OH - Cincinnati,1970,452524,29
+ TN - Nashville-Davidson,1970,448003,30
+ CA - San Jose,1970,445779,31
+ MN - Minneapolis,1970,434400,32
+ TX - Fort Worth,1970,393476,33
+ OH - Toledo,1970,383818,34
+ OR - Portland,1970,382619,35
+ NJ - Newark,1970,382417,36
+ OK - Oklahoma City,1970,366481,37
+ CA - Oakland,1970,361561,38
+ KY - Louisville,1970,361472,39
+ CA - Long Beach,1970,358633,40
+ NE - Omaha,1970,347328,41
+ FL - Miami,1970,334859,42
+ OK - Tulsa,1970,331638,43
+ HI - Honolulu,1970,324871,44
+ TX - El Paso,1970,322261,45
+ MN - Saint Paul,1970,309980,46
+ VA - Norfolk,1970,307951,47
+ AL - Birmingham,1970,300910,48
+ NY - Rochester,1970,296233,49
+ FL - Tampa,1970,277767,50
+ KS - Wichita,1970,276554,51
+ OH - Akron,1970,275425,52
+ AZ - Tucson,1970,262933,53
+ NJ - Jersey City,1970,260545,54
+ CA - Sacramento,1970,254413,55
+ TX - Austin,1970,251808,56
+ VA - Richmond,1970,249621,57
+ NM - Albuquerque,1970,243751,58
+ OH - Dayton,1970,243601,59
+ NC - Charlotte,1970,241178,60
+ FL - St. Petersburg,1970,216232,61
+ TX - Corpus Christi,1970,204525,62
+ NY - Yonkers,1970,204297,63
+ IA - Des Moines,1970,200587,64
+ MI - Grand Rapids,1970,197649,65
+ NY - Syracuse,1970,197208,66
+ MI - Flint,1970,193317,67
+ AL - Mobile,1970,190026,68
+ LA - Shreveport,1970,182064,69
+ MI - Warren,1970,179260,70
+ RI - Providence,1970,179213,71
+ IN - Fort Wayne,1970,177671,72
+ MA - Worcester,1970,176572,73
+ UT - Salt Lake City,1970,175885,74
+ IN - Gary,1970,175415,75
+ TN - Knoxville,1970,174587,76
+ VA - Arlington,1970,174284,77
+ WI - Madison,1970,173258,78
+ VA - Virginia Beach,1970,172106,79
+ WA - Spokane,1970,170516,80
+ KS - Kansas City,1970,168213,81
+ CA - Anaheim,1970,166701,82
+ CA - Fresno,1970,165972,83
+ LA - Baton Rouge,1970,165963,84
+ MA - Springfield,1970,163905,85
+ CT - Hartford,1970,158017,86
+ CA - Santa Ana,1970,156601,87
+ CT - Bridgeport,1970,156542,88
+ WA - Tacoma,1970,154581,89
+ GA - Columbus,1970,154168,90
+ MS - Jackson,1970,153968,91
+ NE - Lincoln,1970,149518,92
+ TX - Lubbock,1970,149101,93
+ IL - Rockford,1970,147370,94
+ NJ - Paterson,1970,144824,95
+ NC - Greensboro,1970,144076,96
+ CA - Riverside,1970,140089,97
+ OH - Youngstown,1970,139788,98
+ FL - Fort Lauderdale,1970,139590,99
+ IN - Evansville,1970,138764,100
+ NY - New York City,1960,7781984,1
+ IL - Chicago,1960,3550404,2
+ CA - Los Angeles,1960,2479015,3
+ PA - Philadelphia,1960,2002512,4
+ MI - Detroit,1960,1670144,5
+ MD - Baltimore,1960,939024,6
+ TX - Houston,1960,938219,7
+ OH - Cleveland,1960,876050,8
+ DC - Washington,1960,763956,9
+ MO - St. Louis,1960,750026,10
+ WI - Milwaukee,1960,741324,11
+ CA - San Francisco,1960,740316,12
+ MA - Boston,1960,697197,13
+ TX - Dallas,1960,679684,14
+ LA - New Orleans,1960,627525,15
+ PA - Pittsburgh,1960,604332,16
+ TX - San Antonio,1960,587718,17
+ CA - San Diego,1960,573224,18
+ WA - Seattle,1960,557087,19
+ NY - Buffalo,1960,532759,20
+ OH - Cincinnati,1960,502550,21
+ TN - Memphis,1960,497524,22
+ CO - Denver,1960,493887,23
+ GA - Atlanta,1960,487455,24
+ MN - Minneapolis,1960,482872,25
+ IN - Indianapolis,1960,476258,26
+ MO - Kansas City,1960,475539,27
+ OH - Columbus,1960,471316,28
+ AZ - Phoenix,1960,439170,29
+ NJ - Newark,1960,405220,30
+ KY - Louisville,1960,390639,31
+ OR - Portland,1960,372676,32
+ CA - Oakland,1960,367548,33
+ TX - Fort Worth,1960,356268,34
+ CA - Long Beach,1960,344168,35
+ AL - Birmingham,1960,340887,36
+ OK - Oklahoma City,1960,324253,37
+ NY - Rochester,1960,318611,38
+ OH - Toledo,1960,318003,39
+ MN - Saint Paul,1960,313411,40
+ VA - Norfolk,1960,305872,41
+ NE - Omaha,1960,301598,42
+ HI - Honolulu,1960,294194,43
+ FL - Miami,1960,291688,44
+ OH - Akron,1960,290351,45
+ TX - El Paso,1960,276687,46
+ NJ - Jersey City,1960,276101,47
+ FL - Tampa,1960,274970,48
+ OH - Dayton,1960,262332,49
+ OK - Tulsa,1960,261685,50
+ KS - Wichita,1960,254698,51
+ VA - Richmond,1960,219958,52
+ NY - Syracuse,1960,216038,53
+ AZ - Tucson,1960,212892,54
+ IA - Des Moines,1960,208982,55
+ RI - Providence,1960,207498,56
+ CA - San Jose,1960,204196,57
+ AL - Mobile,1960,202779,58
+ NC - Charlotte,1960,201564,59
+ NM - Albuquerque,1960,201189,60
+ FL - Jacksonville,1960,201030,61
+ MI - Flint,1960,196940,62
+ CA - Sacramento,1960,191667,63
+ NY - Yonkers,1960,190634,64
+ UT - Salt Lake City,1960,189454,65
+ MA - Worcester,1960,186587,66
+ TX - Austin,1960,186545,67
+ WA - Spokane,1960,181608,68
+ FL - St. Petersburg,1960,181298,69
+ IN - Gary,1960,178320,70
+ MI - Grand Rapids,1960,177313,71
+ MA - Springfield,1960,174463,72
+ TN - Nashville,1960,170874,73
+ TX - Corpus Christi,1960,167690,74
+ OH - Youngstown,1960,166689,75
+ LA - Shreveport,1960,164372,76
+ VA - Arlington,1960,163401,77
+ CT - Hartford,1960,162178,78
+ IN - Fort Wayne,1960,161776,79
+ CT - Bridgeport,1960,156748,80
+ LA - Baton Rouge,1960,152419,81
+ CT - New Haven,1960,152048,82
+ MS - Jackson,1960,144422,83
+ NJ - Paterson,1960,143663,84
+ IN - Evansville,1960,141543,85
+ PA - Erie,1960,138440,86
+ TX - Amarillo,1960,137969,87
+ AL - Montgomery,1960,134393,88
+ CA - Fresno,1960,133929,89
+ IN - South Bend,1960,132445,90
+ TN - Chattanooga,1960,130009,91
+ NY - Albany,1960,129726,92
+ TX - Lubbock,1960,128691,93
+ NE - Lincoln,1960,128521,94
+ WI - Madison,1960,126706,95
+ IL - Rockford,1960,126706,96
+ KS - Kansas City,1960,121901,97
+ NC - Greensboro,1960,119574,98
+ NY - New York City,1950,7891957,1
+ IL - Chicago,1950,3620962,2
+ PA - Philadelphia,1950,2071605,3
+ CA - Los Angeles,1950,1970358,4
+ MI - Detroit,1950,1849568,5
+ MD - Baltimore,1950,949708,6
+ OH - Cleveland,1950,914808,7
+ MO - St. Louis,1950,856796,8
+ DC - Washington,1950,802178,9
+ MA - Boston,1950,801444,10
+ CA - San Francisco,1950,775357,11
+ PA - Pittsburgh,1950,676806,12
+ WI - Milwaukee,1950,637392,13
+ TX - Houston,1950,596163,14
+ NY - Buffalo,1950,580132,15
+ LA - New Orleans,1950,570445,16
+ MN - Minneapolis,1950,521718,17
+ OH - Cincinnati,1950,503998,18
+ WA - Seattle,1950,467591,19
+ MO - Kansas City,1950,456622,20
+ NJ - Newark,1950,438776,21
+ TX - Dallas,1950,434462,22
+ IN - Indianapolis,1950,427173,23
+ CO - Denver,1950,415786,24
+ TX - San Antonio,1950,408442,25
+ TN - Memphis,1950,396000,26
+ CA - Oakland,1950,384575,27
+ OH - Columbus,1950,375901,28
+ OR - Portland,1950,373628,29
+ KY - Louisville,1950,369129,30
+ CA - San Diego,1950,334387,31
+ NY - Rochester,1950,332488,32
+ GA - Atlanta,1950,331314,33
+ AL - Birmingham,1950,326037,34
+ MN - Saint Paul,1950,311349,35
+ OH - Toledo,1950,303616,36
+ NJ - Jersey City,1950,299017,37
+ TX - Fort Worth,1950,278778,38
+ OH - Akron,1950,274605,39
+ NE - Omaha,1950,251117,40
+ CA - Long Beach,1950,250767,41
+ FL - Miami,1950,249276,42
+ RI - Providence,1950,248674,43
+ OH - Dayton,1950,243872,44
+ OK - Oklahoma City,1950,243504,45
+ VA - Richmond,1950,230310,46
+ NY - Syracuse,1950,220583,47
+ VA - Norfolk,1950,213513,48
+ FL - Jacksonville,1950,204517,49
+ MA - Worcester,1950,203486,50
+ OK - Tulsa,1950,182740,51
+ UT - Salt Lake City,1950,182121,52
+ IA - Des Moines,1950,177965,53
+ CT - Hartford,1950,177397,54
+ MI - Grand Rapids,1950,176515,55
+ TN - Nashville,1950,174307,56
+ OH - Youngstown,1950,168330,57
+ KS - Wichita,1950,168279,58
+ CT - New Haven,1950,164443,59
+ MI - Flint,1950,163143,60
+ MA - Springfield,1950,162399,61
+ WA - Spokane,1950,161721,62
+ CT - Bridgeport,1950,158709,63
+ NY - Yonkers,1950,152798,64
+ WA - Tacoma,1950,143673,65
+ NJ - Paterson,1950,139336,66
+ CA - Sacramento,1950,137572,67
+ VA - Arlington,1950,135449,68
+ NY - Albany,1950,134995,69
+ NC - Charlotte,1950,134042,70
+ IN - Gary,1950,133911,71
+ IN - Fort Wayne,1950,133607,72
+ TX - Austin,1950,132459,73
+ TN - Chattanooga,1950,131041,74
+ PA - Erie,1950,130803,75
+ TX - El Paso,1950,130485,76
+ KS - Kansas City,1950,129553,77
+ AL - Mobile,1950,129009,78
+ IN - Evansville,1950,128636,79
+ NJ - Trenton,1950,128009,80
+ LA - Shreveport,1950,127206,81
+ LA - Baton Rouge,1950,125629,82
+ PA - Scranton,1950,125536,83
+ TN - Knoxville,1950,124769,84
+ FL - Tampa,1950,124681,85
+ NJ - Camden,1950,124555,86
+ MA - Cambridge,1950,120740,87
+ GA - Savannah,1950,119638,88
+ OH - Canton,1950,116912,89
+ IN - South Bend,1950,115911,90
+ CA - Berkeley,1950,113805,91
+ NJ - Elizabeth,1950,112817,92
+ MA - Fall River,1950,111963,93
+ IL - Peoria,1950,111856,94
+ DE - Wilmington,1950,110356,95
+ PA - Reading,1950,109320,96
+ MA - New Bedford,1950,109189,97
+ TX - Corpus Christi,1950,108287,98
+ AZ - Phoenix,1950,106818,99
+ PA - Allentown,1950,106756,100
+ NY - New York City,1940,7454995,1
+ IL - Chicago,1940,3396808,2
+ PA - Philadelphia,1940,1931334,3
+ MI - Detroit,1940,1623452,4
+ CA - Los Angeles,1940,1504277,5
+ OH - Cleveland,1940,878336,6
+ MD - Baltimore,1940,859100,7
+ MO - St. Louis,1940,816048,8
+ MA - Boston,1940,770816,9
+ PA - Pittsburgh,1940,671659,10
+ DC - Washington,1940,663091,11
+ CA - San Francisco,1940,634536,12
+ WI - Milwaukee,1940,587472,13
+ NY - Buffalo,1940,575901,14
+ LA - New Orleans,1940,494537,15
+ MN - Minneapolis,1940,492370,16
+ OH - Cincinnati,1940,455610,17
+ NJ - Newark,1940,429760,18
+ MO - Kansas City,1940,399178,19
+ IN - Indianapolis,1940,386972,20
+ TX - Houston,1940,384514,21
+ WA - Seattle,1940,368302,22
+ NY - Rochester,1940,324975,23
+ CO - Denver,1940,322412,24
+ KY - Louisville,1940,319077,25
+ OH - Columbus,1940,306087,26
+ OR - Portland,1940,305394,27
+ GA - Atlanta,1940,302288,28
+ CA - Oakland,1940,302163,29
+ NJ - Jersey City,1940,301173,30
+ TX - Dallas,1940,294734,31
+ TN - Memphis,1940,292942,32
+ MN - Saint Paul,1940,287736,33
+ OH - Toledo,1940,282349,34
+ AL - Birmingham,1940,267583,35
+ TX - San Antonio,1940,253854,36
+ RI - Providence,1940,253504,37
+ OH - Akron,1940,244791,38
+ NE - Omaha,1940,223844,39
+ OH - Dayton,1940,210718,40
+ NY - Syracuse,1940,205967,41
+ OK - Oklahoma City,1940,204424,42
+ CA - San Diego,1940,203341,43
+ MA - Worcester,1940,193694,44
+ VA - Richmond,1940,193042,45
+ TX - Fort Worth,1940,177662,46
+ FL - Jacksonville,1940,173065,47
+ FL - Miami,1940,172172,48
+ OH - Youngstown,1940,167720,49
+ TN - Nashville,1940,167402,50
+ CT - Hartford,1940,166267,51
+ MI - Grand Rapids,1940,164292,52
+ CA - Long Beach,1940,164271,53
+ CT - New Haven,1940,160605,54
+ IA - Des Moines,1940,159819,55
+ MI - Flint,1940,151543,56
+ UT - Salt Lake City,1940,149934,57
+ MA - Springfield,1940,149554,58
+ CT - Bridgeport,1940,147121,59
+ VA - Norfolk,1940,144332,60
+ NY - Yonkers,1940,142598,61
+ OK - Tulsa,1940,142157,62
+ PA - Scranton,1940,140404,63
+ NJ - Paterson,1940,139656,64
+ NY - Albany,1940,130577,65
+ TN - Chattanooga,1940,128163,66
+ NJ - Trenton,1940,124697,67
+ WA - Spokane,1940,122001,68
+ KS - Kansas City,1940,121458,69
+ IN - Fort Wayne,1940,118410,70
+ NJ - Camden,1940,117536,71
+ PA - Erie,1940,116955,72
+ MA - Fall River,1940,115428,73
+ KS - Wichita,1940,114966,74
+ DE - Wilmington,1940,112504,75
+ IN - Gary,1940,111719,76
+ TN - Knoxville,1940,111580,77
+ MA - Cambridge,1940,110879,78
+ PA - Reading,1940,110568,79
+ MA - New Bedford,1940,110341,80
+ NJ - Elizabeth,1940,109912,81
+ WA - Tacoma,1940,109408,82
+ OH - Canton,1940,108401,83
+ FL - Tampa,1940,108391,84
+ CA - Sacramento,1940,105958,85
+ IL - Peoria,1940,105087,86
+ MA - Somerville,1940,102177,87
+ MA - Lowell,1940,101389,88
+ IN - South Bend,1940,101268,89
+ MN - Duluth,1940,101065,90
+ NC - Charlotte,1940,100899,91
+ NY - Utica,1940,100518,92
+ CT - Waterbury,1940,99314,93
+ LA - Shreveport,1940,98167,94
+ MA - Lynn,1940,98123,95
+ IN - Evansville,1940,97062,96
+ PA - Allentown,1940,96904,97
+ TX - El Paso,1940,96810,98
+ GA - Savannah,1940,95996,99
+ AR - Little Rock,1940,88039,100
+ NY - New York City,1930,6930446,1
+ IL - Chicago,1930,3376438,2
+ PA - Philadelphia,1930,1950961,3
+ MI - Detroit,1930,1568662,4
+ CA - Los Angeles,1930,1238048,5
+ OH - Cleveland,1930,900429,6
+ MO - St. Louis,1930,821960,7
+ MD - Baltimore,1930,804874,8
+ MA - Boston,1930,781188,9
+ PA - Pittsburgh,1930,669817,10
+ CA - San Francisco,1930,634394,11
+ WI - Milwaukee,1930,578249,12
+ NY - Buffalo,1930,573076,13
+ DC - Washington,1930,486869,14
+ MN - Minneapolis,1930,464356,15
+ LA - New Orleans,1930,458762,16
+ OH - Cincinnati,1930,451160,17
+ NJ - Newark,1930,442337,18
+ MO - Kansas City,1930,399746,19
+ WA - Seattle,1930,365583,20
+ IN - Indianapolis,1930,364161,21
+ NY - Rochester,1930,328132,22
+ NJ - Jersey City,1930,316715,23
+ KY - Louisville,1930,307745,24
+ OR - Portland,1930,301815,25
+ TX - Houston,1930,292352,26
+ OH - Toledo,1930,290718,27
+ OH - Columbus,1930,290564,28
+ CO - Denver,1930,287861,29
+ CA - Oakland,1930,284063,30
+ MN - Saint Paul,1930,271606,31
+ GA - Atlanta,1930,270366,32
+ TX - Dallas,1930,260475,33
+ AL - Birmingham,1930,259678,34
+ OH - Akron,1930,255040,35
+ TN - Memphis,1930,253143,36
+ RI - Providence,1930,252981,37
+ TX - San Antonio,1930,231542,38
+ NE - Omaha,1930,214006,39
+ NY - Syracuse,1930,209326,40
+ OH - Dayton,1930,200982,41
+ MA - Worcester,1930,195311,42
+ OK - Oklahoma City,1930,185389,43
+ VA - Richmond,1930,182929,44
+ OH - Youngstown,1930,170002,45
+ MI - Grand Rapids,1930,168592,46
+ CT - Hartford,1930,164072,47
+ TX - Fort Worth,1930,163447,48
+ CT - New Haven,1930,162655,49
+ MI - Flint,1930,156492,50
+ TN - Nashville,1930,153866,51
+ MA - Springfield,1930,149900,52
+ CA - San Diego,1930,147995,53
+ CT - Bridgeport,1930,146716,54
+ PA - Scranton,1930,143433,55
+ IA - Des Moines,1930,142559,56
+ CA - Long Beach,1930,142032,57
+ OK - Tulsa,1930,141258,58
+ UT - Salt Lake City,1930,140267,59
+ NJ - Paterson,1930,138513,60
+ NY - Yonkers,1930,134646,61
+ VA - Norfolk,1930,129710,62
+ FL - Jacksonville,1930,129549,63
+ NY - Albany,1930,127412,64
+ NJ - Trenton,1930,123356,65
+ KS - Kansas City,1930,121857,66
+ TN - Chattanooga,1930,119798,67
+ NJ - Camden,1930,118700,68
+ PA - Erie,1930,115967,69
+ WA - Spokane,1930,115514,70
+ MA - Fall River,1930,115274,71
+ IN - Fort Wayne,1930,114946,72
+ NJ - Elizabeth,1930,114589,73
+ MA - Cambridge,1930,113643,74
+ MA - New Bedford,1930,112597,75
+ PA - Reading,1930,111171,76
+ KS - Wichita,1930,111110,77
+ FL - Miami,1930,110637,78
+ WA - Tacoma,1930,106817,79
+ DE - Wilmington,1930,106597,80
+ TN - Knoxville,1930,105802,81
+ IL - Peoria,1930,104969,82
+ OH - Canton,1930,104906,83
+ IN - South Bend,1930,104193,84
+ MA - Somerville,1930,103908,85
+ TX - El Paso,1930,102421,86
+ MA - Lynn,1930,102320,87
+ IN - Evansville,1930,102249,88
+ NY - Utica,1930,101740,89
+ MN - Duluth,1930,101463,90
+ FL - Tampa,1930,101161,91
+ IN - Gary,1930,100426,92
+ MA - Lowell,1930,100234,93
+ CT - Waterbury,1930,99902,94
+ NY - Schenectady,1930,95692,95
+ CA - Sacramento,1930,93750,96
+ PA - Allentown,1930,92563,97
+ NJ - Bayonne,1930,88979,98
+ PA - Wilkes-Barre,1930,86626,99
+ IL - Rockford,1930,85864,100
+ NY - New York City,1920,5620048,1
+ IL - Chicago,1920,2701705,2
+ PA - Philadelphia,1920,1823779,3
+ MI - Detroit,1920,993078,4
+ OH - Cleveland,1920,796841,5
+ MO - St. Louis,1920,772897,6
+ MA - Boston,1920,748060,7
+ MD - Baltimore,1920,733826,8
+ PA - Pittsburgh,1920,588343,9
+ CA - Los Angeles,1920,576673,10
+ NY - Buffalo,1920,506775,11
+ CA - San Francisco,1920,506676,12
+ WI - Milwaukee,1920,457147,13
+ DC - Washington,1920,437571,14
+ NJ - Newark,1920,414524,15
+ OH - Cincinnati,1920,401247,16
+ LA - New Orleans,1920,387219,17
+ MN - Minneapolis,1920,380582,18
+ MO - Kansas City,1920,324410,19
+ WA - Seattle,1920,315312,20
+ IN - Indianapolis,1920,314194,21
+ NJ - Jersey City,1920,298103,22
+ NY - Rochester,1920,295750,23
+ OR - Portland,1920,258288,24
+ CO - Denver,1920,256491,25
+ OH - Toledo,1920,243164,26
+ RI - Providence,1920,237595,27
+ OH - Columbus,1920,237031,28
+ KY - Louisville,1920,234891,29
+ MN - Saint Paul,1920,234698,30
+ CA - Oakland,1920,216261,31
+ OH - Akron,1920,208435,32
+ GA - Atlanta,1920,200616,33
+ NE - Omaha,1920,191601,34
+ MA - Worcester,1920,179754,35
+ AL - Birmingham,1920,178806,36
+ NY - Syracuse,1920,171717,37
+ VA - Richmond,1920,171667,38
+ CT - New Haven,1920,162537,39
+ TN - Memphis,1920,162351,40
+ TX - San Antonio,1920,161379,41
+ TX - Dallas,1920,158976,42
+ OH - Dayton,1920,152559,43
+ CT - Bridgeport,1920,143555,44
+ TX - Houston,1920,138276,45
+ CT - Hartford,1920,138036,46
+ PA - Scranton,1920,137783,47
+ MI - Grand Rapids,1920,137634,48
+ NJ - Paterson,1920,135875,49
+ OH - Youngstown,1920,132358,50
+ MA - Springfield,1920,129614,51
+ IA - Des Moines,1920,126468,52
+ MA - New Bedford,1920,121217,53
+ MA - Fall River,1920,120485,54
+ NJ - Trenton,1920,119289,55
+ TN - Nashville,1920,118342,56
+ UT - Salt Lake City,1920,118110,57
+ NJ - Camden,1920,116309,58
+ VA - Norfolk,1920,115777,59
+ NY - Albany,1920,113344,60
+ MA - Lowell,1920,112759,61
+ DE - Wilmington,1920,110168,62
+ MA - Cambridge,1920,109694,63
+ PA - Reading,1920,107784,64
+ TX - Fort Worth,1920,106482,65
+ WA - Spokane,1920,104437,66
+ KS - Kansas City,1920,101177,67
+ NY - Yonkers,1920,100176,68
+ MA - Lynn,1920,99148,69
+ MN - Duluth,1920,98917,70
+ WA - Tacoma,1920,96965,71
+ NJ - Elizabeth,1920,95783,72
+ MA - Lawrence,1920,94270,73
+ NY - Utica,1920,94156,74
+ PA - Erie,1920,93372,75
+ MA - Somerville,1920,93091,76
+ CT - Waterbury,1920,91715,77
+ MI - Flint,1920,91599,78
+ FL - Jacksonville,1920,91558,79
+ OK - Oklahoma City,1920,91295,80
+ NY - Schenectady,1920,88723,81
+ OH - Canton,1920,87091,82
+ IN - Fort Wayne,1920,86549,83
+ IN - Evansville,1920,85264,84
+ GA - Savannah,1920,83252,85
+ NH - Manchester,1920,78384,86
+ MO - Saint Joseph,1920,77939,87
+ TN - Knoxville,1920,77818,88
+ TX - El Paso,1920,77560,89
+ NJ - Bayonne,1920,76754,90
+ IL - Peoria,1920,76121,91
+ PA - Harrisburg,1920,75917,92
+ CA - San Diego,1920,74683,93
+ PA - Wilkes-Barre,1920,73833,94
+ PA - Allentown,1920,73502,95
+ KS - Wichita,1920,72217,96
+ OK - Tulsa,1920,72075,97
+ NY - Troy,1920,71996,98
+ IA - Sioux City,1920,71227,99
+ IN - South Bend,1920,70983,100
+ NY - New York City,1910,4766883,1
+ IL - Chicago,1910,2185283,2
+ PA - Philadelphia,1910,1549008,3
+ MO - St. Louis,1910,687029,4
+ MA - Boston,1910,670585,5
+ OH - Cleveland,1910,560663,6
+ MD - Baltimore,1910,558485,7
+ PA - Pittsburgh,1910,533905,8
+ MI - Detroit,1910,465766,9
+ NY - Buffalo,1910,423715,10
+ CA - San Francisco,1910,416912,11
+ WI - Milwaukee,1910,373857,12
+ OH - Cincinnati,1910,363591,13
+ NJ - Newark,1910,347469,14
+ LA - New Orleans,1910,339075,15
+ DC - Washington,1910,331069,16
+ CA - Los Angeles,1910,319198,17
+ MN - Minneapolis,1910,301408,18
+ NJ - Jersey City,1910,267779,19
+ MO - Kansas City,1910,248381,20
+ WA - Seattle,1910,237194,21
+ IN - Indianapolis,1910,233650,22
+ RI - Providence,1910,224326,23
+ KY - Louisville,1910,223928,24
+ NY - Rochester,1910,218149,25
+ MN - Saint Paul,1910,214744,26
+ CO - Denver,1910,213381,27
+ OR - Portland,1910,207214,28
+ OH - Columbus,1910,181511,29
+ OH - Toledo,1910,168497,30
+ GA - Atlanta,1910,154839,31
+ CA - Oakland,1910,150174,32
+ MA - Worcester,1910,145986,33
+ NY - Syracuse,1910,137249,34
+ CT - New Haven,1910,133605,35
+ AL - Birmingham,1910,132685,36
+ TN - Memphis,1910,131105,37
+ PA - Scranton,1910,129867,38
+ VA - Richmond,1910,127628,39
+ NJ - Paterson,1910,125600,40
+ NE - Omaha,1910,124096,41
+ MA - Fall River,1910,119295,42
+ OH - Dayton,1910,116577,43
+ MI - Grand Rapids,1910,112571,44
+ TN - Nashville,1910,110364,45
+ MA - Lowell,1910,106294,46
+ MA - Cambridge,1910,104839,47
+ WA - Spokane,1910,104402,48
+ CT - Bridgeport,1910,102054,49
+ NY - Albany,1910,100253,50
+ CT - Hartford,1910,98915,51
+ NJ - Trenton,1910,96815,52
+ MA - New Bedford,1910,96652,53
+ TX - San Antonio,1910,96614,54
+ PA - Reading,1910,96071,55
+ NJ - Camden,1910,94538,56
+ UT - Salt Lake City,1910,92777,57
+ TX - Dallas,1910,92104,58
+ MA - Lynn,1910,89336,59
+ MA - Springfield,1910,88926,60
+ DE - Wilmington,1910,87411,61
+ IA - Des Moines,1910,86368,62
+ MA - Lawrence,1910,85892,63
+ WA - Tacoma,1910,83743,64
+ KS - Kansas City,1910,82331,65
+ NY - Yonkers,1910,79803,66
+ OH - Youngstown,1910,79066,67
+ TX - Houston,1910,78800,68
+ MN - Duluth,1910,78466,69
+ MO - Saint Joseph,1910,77403,70
+ MA - Somerville,1910,77236,71
+ NY - Troy,1910,76813,72
+ NY - Utica,1910,74419,73
+ NJ - Elizabeth,1910,73409,74
+ TX - Fort Worth,1910,73312,75
+ CT - Waterbury,1910,73141,76
+ NY - Schenectady,1910,72826,77
+ NJ - Hoboken,1910,70324,78
+ NH - Manchester,1910,70063,79
+ IN - Evansville,1910,69647,80
+ OH - Akron,1910,69067,81
+ VA - Norfolk,1910,67452,82
+ PA - Wilkes-Barre,1910,67105,83
+ IL - Peoria,1910,66950,84
+ PA - Erie,1910,66525,85
+ GA - Savannah,1910,65064,86
+ OK - Oklahoma City,1910,64205,87
+ PA - Harrisburg,1910,64186,88
+ IN - Fort Wayne,1910,63933,89
+ SC - Charleston,1910,58833,90
+ ME - Portland,1910,58571,91
+ IL - East St. Louis,1910,58547,92
+ IN - Terre Haute,1910,58157,93
+ MA - Holyoke,1910,57730,94
+ FL - Jacksonville,1910,57699,95
+ MA - Brockton,1910,56878,96
+ NJ - Bayonne,1910,55545,97
+ PA - Johnstown,1910,55482,98
+ NJ - Passaic,1910,54773,99
+ IN - South Bend,1910,53684,100
+ NY - New York City,1900,3437202,1
+ IL - Chicago,1900,1698575,2
+ PA - Philadelphia,1900,1293697,3
+ MO - St. Louis,1900,575238,4
+ MA - Boston,1900,560892,5
+ MD - Baltimore,1900,508957,6
+ OH - Cleveland,1900,381768,7
+ NY - Buffalo,1900,352387,8
+ CA - San Francisco,1900,342782,9
+ OH - Cincinnati,1900,325902,10
+ PA - Pittsburgh,1900,321616,11
+ LA - New Orleans,1900,287104,12
+ MI - Detroit,1900,285704,13
+ WI - Milwaukee,1900,285315,14
+ DC - Washington,1900,278718,15
+ NJ - Newark,1900,246070,16
+ NJ - Jersey City,1900,206433,17
+ KY - Louisville,1900,204731,18
+ MN - Minneapolis,1900,202718,19
+ RI - Providence,1900,175597,20
+ IN - Indianapolis,1900,169164,21
+ MO - Kansas City,1900,163752,22
+ MN - Saint Paul,1900,163065,23
+ NY - Rochester,1900,162608,24
+ CO - Denver,1900,133859,25
+ OH - Toledo,1900,131822,26
+ PA - Allegheny,1900,129896,27
+ OH - Columbus,1900,125560,28
+ MA - Worcester,1900,118421,29
+ NY - Syracuse,1900,108374,30
+ CT - New Haven,1900,108027,31
+ NJ - Paterson,1900,105171,32
+ MA - Fall River,1900,104863,33
+ MO - Saint Joseph,1900,102979,34
+ NE - Omaha,1900,102555,35
+ CA - Los Angeles,1900,102479,36
+ TN - Memphis,1900,102320,37
+ PA - Scranton,1900,102026,38
+ MA - Lowell,1900,94969,39
+ NY - Albany,1900,94151,40
+ MA - Cambridge,1900,91886,41
+ OR - Portland,1900,90426,42
+ GA - Atlanta,1900,89872,43
+ MI - Grand Rapids,1900,87565,44
+ OH - Dayton,1900,85333,45
+ VA - Richmond,1900,85050,46
+ TN - Nashville,1900,80865,47
+ WA - Seattle,1900,80671,48
+ CT - Hartford,1900,79850,49
+ PA - Reading,1900,78961,50
+ DE - Wilmington,1900,76508,51
+ NJ - Camden,1900,75935,52
+ NJ - Trenton,1900,73307,53
+ CT - Bridgeport,1900,70996,54
+ MA - Lynn,1900,68513,55
+ CA - Oakland,1900,66960,56
+ MA - Lawrence,1900,62559,57
+ MA - New Bedford,1900,62442,58
+ IA - Des Moines,1900,62139,59
+ MA - Springfield,1900,62059,60
+ MA - Somerville,1900,61643,61
+ NY - Troy,1900,60651,62
+ NJ - Hoboken,1900,59364,63
+ IN - Evansville,1900,59007,64
+ NH - Manchester,1900,56987,65
+ NY - Utica,1900,56383,66
+ IL - Peoria,1900,56100,67
+ SC - Charleston,1900,55807,68
+ GA - Savannah,1900,54244,69
+ UT - Salt Lake City,1900,53531,70
+ TX - San Antonio,1900,53321,71
+ MN - Duluth,1900,52969,72
+ PA - Erie,1900,52733,73
+ NJ - Elizabeth,1900,52130,74
+ PA - Wilkes-Barre,1900,51721,75
+ KS - Kansas City,1900,51418,76
+ PA - Harrisburg,1900,50167,77
+ ME - Portland,1900,50145,78
+ NY - Yonkers,1900,47931,79
+ VA - Norfolk,1900,46624,80
+ CT - Waterbury,1900,45859,81
+ MA - Holyoke,1900,45712,82
+ IN - Fort Wayne,1900,45115,83
+ OH - Youngstown,1900,44885,84
+ TX - Houston,1900,44633,85
+ KY - Covington,1900,42938,86
+ OH - Akron,1900,42728,87
+ TX - Dallas,1900,42638,88
+ MI - Saginaw,1900,42345,89
+ PA - Lancaster,1900,41459,90
+ NE - Lincoln,1900,40169,91
+ MA - Brockton,1900,40063,92
+ NY - Binghamton,1900,39647,93
+ GA - Augusta,1900,39441,94
+ RI - Pawtucket,1900,39231,95
+ PA - Altoona,1900,38973,96
+ VA/WV - Wheeling,1900,38878,97
+ AL - Mobile,1900,38469,98
+ AL - Birmingham,1900,38415,99
+ AR - Little Rock,1900,38307,100
+ NY - New York City,1890,1515301,1
+ IL - Chicago,1890,1099850,2
+ PA - Philadelphia,1890,1046964,3
+ NY - Brooklyn,1890,806343,4
+ MO - St. Louis,1890,451770,5
+ MA - Boston,1890,448477,6
+ MD - Baltimore,1890,434439,7
+ CA - San Francisco,1890,298997,8
+ OH - Cincinnati,1890,296908,9
+ OH - Cleveland,1890,261353,10
+ NY - Buffalo,1890,255664,11
+ LA - New Orleans,1890,242039,12
+ PA - Pittsburgh,1890,238617,13
+ DC - Washington,1890,230392,14
+ MI - Detroit,1890,205876,15
+ WI - Milwaukee,1890,204468,16
+ NJ - Newark,1890,181830,17
+ MN - Minneapolis,1890,164738,18
+ NJ - Jersey City,1890,163003,19
+ KY - Louisville,1890,161129,20
+ NE - Omaha,1890,140452,21
+ NY - Rochester,1890,133896,22
+ MN - Saint Paul,1890,133156,23
+ MO - Kansas City,1890,132716,24
+ RI - Providence,1890,132146,25
+ CO - Denver,1890,106713,26
+ IN - Indianapolis,1890,105436,27
+ PA - Allegheny,1890,105287,28
+ NY - Albany,1890,94923,29
+ OH - Columbus,1890,88150,30
+ NY - Syracuse,1890,88143,31
+ CT - New Haven,1890,86045,32
+ MA - Worcester,1890,84655,33
+ OH - Toledo,1890,81434,34
+ VA - Richmond,1890,81388,35
+ NJ - Paterson,1890,78347,36
+ MA - Lowell,1890,77696,37
+ TN - Nashville,1890,76168,38
+ PA - Scranton,1890,75215,39
+ MA - Fall River,1890,74398,40
+ MA - Cambridge,1890,70028,41
+ GA - Atlanta,1890,65533,42
+ TN - Memphis,1890,64495,43
+ DE - Wilmington,1890,61431,44
+ OH - Dayton,1890,61220,45
+ NY - Troy,1890,60956,46
+ MI - Grand Rapids,1890,60278,47
+ PA - Reading,1890,58661,48
+ NJ - Camden,1890,58313,49
+ NJ - Trenton,1890,57458,50
+ MA - Lynn,1890,55727,51
+ NE - Lincoln,1890,55154,52
+ SC - Charleston,1890,54955,53
+ CT - Hartford,1890,53230,54
+ MO - Saint Joseph,1890,52324,55
+ IN - Evansville,1890,50756,56
+ CA - Los Angeles,1890,50395,57
+ IA - Des Moines,1890,50093,58
+ CT - Bridgeport,1890,48866,59
+ CA - Oakland,1890,48682,60
+ OR - Portland,1890,46385,61
+ MI - Saginaw,1890,46322,62
+ UT - Salt Lake City,1890,44843,63
+ MA - Lawrence,1890,44654,64
+ MA - Springfield,1890,44179,65
+ NH - Manchester,1890,44126,66
+ NY - Utica,1890,44007,67
+ NJ - Hoboken,1890,43648,68
+ GA - Savannah,1890,43189,69
+ WA - Seattle,1890,42837,70
+ IL - Peoria,1890,41024,71
+ MA - New Bedford,1890,40733,72
+ PA - Erie,1890,40634,73
+ MA - Somerville,1890,40152,74
+ PA - Harrisburg,1890,39385,75
+ KS - Kansas City,1890,38316,76
+ TX - Dallas,1890,38067,77
+ IA - Sioux City,1890,37806,78
+ NJ - Elizabeth,1890,37764,79
+ PA - Wilkes-Barre,1890,37718,80
+ TX - San Antonio,1890,37673,81
+ KY - Covington,1890,37371,82
+ ME - Portland,1890,36425,83
+ WA - Tacoma,1890,36006,84
+ MA - Holyoke,1890,35637,85
+ IN - Fort Wayne,1890,35393,86
+ NY - Binghamton,1890,35005,87
+ VA - Norfolk,1890,34871,88
+ VA/WV - Wheeling,1890,34522,89
+ GA - Augusta,1890,33300,90
+ OH - Youngstown,1890,33220,91
+ MN - Duluth,1890,33115,92
+ NY - Yonkers,1890,32033,93
+ PA - Lancaster,1890,32011,94
+ OH - Springfield,1890,31895,95
+ IL - Quincy,1890,31494,96
+ AL - Mobile,1890,31076,97
+ KS - Topeka,1890,31007,98
+ NY - Elmira,1890,30893,99
+ MA - Salem,1890,30801,100
+ NY - New York City,1880,1206299,1
+ PA - Philadelphia,1880,847170,2
+ NY - Brooklyn,1880,566663,3
+ IL - Chicago,1880,503185,4
+ MA - Boston,1880,362839,5
+ MO - St. Louis,1880,350518,6
+ MD - Baltimore,1880,332313,7
+ OH - Cincinnati,1880,255139,8
+ CA - San Francisco,1880,233959,9
+ LA - New Orleans,1880,216090,10
+ OH - Cleveland,1880,160146,11
+ PA - Pittsburgh,1880,156389,12
+ NY - Buffalo,1880,155134,13
+ DC - Washington,1880,147293,14
+ NJ - Newark,1880,136508,15
+ KY - Louisville,1880,123758,16
+ NJ - Jersey City,1880,120722,17
+ MI - Detroit,1880,116340,18
+ WI - Milwaukee,1880,115587,19
+ RI - Providence,1880,104857,20
+ NY - Albany,1880,90758,21
+ NY - Rochester,1880,89366,22
+ PA - Allegheny,1880,78682,23
+ IN - Indianapolis,1880,75056,24
+ VA - Richmond,1880,63600,25
+ CT - New Haven,1880,62882,26
+ MA - Lowell,1880,59475,27
+ MA - Worcester,1880,58291,28
+ NY - Troy,1880,56747,29
+ MO - Kansas City,1880,55785,30
+ MA - Cambridge,1880,52669,31
+ NY - Syracuse,1880,51792,32
+ OH - Columbus,1880,51647,33
+ NJ - Paterson,1880,51031,34
+ OH - Toledo,1880,50137,35
+ SC - Charleston,1880,49984,36
+ MA - Fall River,1880,48961,37
+ MN - Minneapolis,1880,46887,38
+ PA - Scranton,1880,45850,39
+ TN - Nashville,1880,43350,40
+ PA - Reading,1880,43278,41
+ DE - Wilmington,1880,42478,42
+ CT - Hartford,1880,42015,43
+ NJ - Camden,1880,41659,44
+ MN - Saint Paul,1880,41473,45
+ MA - Lawrence,1880,39151,46
+ OH - Dayton,1880,38678,47
+ MA - Lynn,1880,38274,48
+ GA - Atlanta,1880,37409,49
+ CO - Denver,1880,35629,50
+ CA - Oakland,1880,34555,51
+ NY - Utica,1880,33914,52
+ ME - Portland,1880,33810,53
+ TN - Memphis,1880,33592,54
+ MA - Springfield,1880,33340,55
+ NH - Manchester,1880,32630,56
+ MO - Saint Joseph,1880,32431,57
+ MI - Grand Rapids,1880,32016,58
+ NJ - Hoboken,1880,30999,59
+ PA - Harrisburg,1880,30762,60
+ VA/WV - Wheeling,1880,30737,61
+ GA - Savannah,1880,30709,62
+ NE - Omaha,1880,30518,63
+ NJ - Trenton,1880,29910,64
+ KY - Covington,1880,29720,65
+ IN - Evansville,1880,29280,66
+ IL - Peoria,1880,29259,67
+ AL - Mobile,1880,29132,68
+ NJ - Elizabeth,1880,28229,69
+ PA - Erie,1880,27737,70
+ CT - Bridgeport,1880,27643,71
+ MA - Salem,1880,27563,72
+ IL - Quincy,1880,27268,73
+ IN - Fort Wayne,1880,26880,74
+ MA - New Bedford,1880,26845,75
+ IN - Terre Haute,1880,26042,76
+ PA - Lancaster,1880,25769,77
+ MA - Somerville,1880,24933,78
+ PA - Wilkes-Barre,1880,23339,79
+ IA - Des Moines,1880,22408,80
+ IA - Dubuque,1880,22254,81
+ TX - Galveston,1880,22248,82
+ VA - Norfolk,1880,21966,83
+ NY - Auburn,1880,21924,84
+ MA - Holyoke,1880,21915,85
+ GA - Augusta,1880,21891,86
+ IA - Davenport,1880,21831,87
+ MA - Chelsea,1880,21782,88
+ VA - Petersburg,1880,21656,89
+ CA - Sacramento,1880,21420,90
+ MA - Taunton,1880,21213,91
+ NY - Oswego,1880,21116,92
+ UT - Salt Lake City,1880,20768,93
+ OH - Springfield,1880,20730,94
+ MI - Bay City,1880,20693,95
+ TX - San Antonio,1880,20550,96
+ NY - Elmira,1880,20541,97
+ KY - Newport,1880,20433,98
+ NY - Poughkeepsie,1880,20207,99
+ IL - Springfield,1880,19743,100
+ NY - New York City,1870,942292,1
+ PA - Philadelphia,1870,674022,2
+ NY - Brooklyn,1870,396099,3
+ MO - St. Louis,1870,310864,4
+ IL - Chicago,1870,298977,5
+ MD - Baltimore,1870,267354,6
+ MA - Boston,1870,250526,7
+ OH - Cincinnati,1870,216239,8
+ LA - New Orleans,1870,191418,9
+ CA - San Francisco,1870,149473,10
+ NY - Buffalo,1870,117714,11
+ DC - Washington,1870,109199,12
+ NJ - Newark,1870,105059,13
+ KY - Louisville,1870,100753,14
+ OH - Cleveland,1870,92829,15
+ PA - Pittsburgh,1870,86076,16
+ NJ - Jersey City,1870,82546,17
+ MI - Detroit,1870,79577,18
+ WI - Milwaukee,1870,71440,19
+ NY - Albany,1870,69422,20
+ RI - Providence,1870,68904,21
+ NY - Rochester,1870,62386,22
+ PA - Allegheny,1870,53180,23
+ VA - Richmond,1870,51038,24
+ CT - New Haven,1870,50840,25
+ SC - Charleston,1870,48956,26
+ IN - Indianapolis,1870,48244,27
+ NY - Troy,1870,46465,28
+ NY - Syracuse,1870,43051,29
+ MA - Worcester,1870,41105,30
+ MA - Lowell,1870,40928,31
+ TN - Memphis,1870,40226,32
+ MA - Cambridge,1870,39634,33
+ CT - Hartford,1870,37180,34
+ PA - Scranton,1870,35092,35
+ PA - Reading,1870,33930,36
+ NJ - Paterson,1870,33579,37
+ MO - Kansas City,1870,32260,38
+ AL - Mobile,1870,32034,39
+ OH - Toledo,1870,31584,40
+ ME - Portland,1870,31413,41
+ OH - Columbus,1870,31274,42
+ DE - Wilmington,1870,30841,43
+ OH - Dayton,1870,30473,44
+ MA - Lawrence,1870,28921,45
+ NY - Utica,1870,28804,46
+ MA - Charlestown,1870,28323,47
+ GA - Savannah,1870,28235,48
+ MA - Lynn,1870,28233,49
+ MA - Fall River,1870,26766,50
+ MA - Springfield,1870,26703,51
+ TN - Nashville,1870,25865,52
+ KY - Covington,1870,24505,53
+ MA - Salem,1870,24117,54
+ IL - Quincy,1870,24052,55
+ NH - Manchester,1870,23536,56
+ PA - Harrisburg,1870,23104,57
+ NJ - Trenton,1870,22874,58
+ IL - Peoria,1870,22849,59
+ IN - Evansville,1870,21830,60
+ GA - Atlanta,1870,21789,61
+ MA - New Bedford,1870,21320,62
+ NY - Oswego,1870,20910,63
+ NJ - Elizabeth,1870,20832,64
+ RI - North Providence,1870,20495,65
+ NJ - Hoboken,1870,20297,66
+ PA - Lancaster,1870,20233,67
+ NY - Poughkeepsie,1870,20080,68
+ NJ - Camden,1870,20045,69
+ IA - Davenport,1870,20038,70
+ MN - Saint Paul,1870,20030,71
+ PA - Erie,1870,19646,72
+ MO - Saint Joseph,1870,19565,73
+ VA/WV - Wheeling,1870,19280,74
+ VA - Norfolk,1870,19229,75
+ CT - Bridgeport,1870,18969,76
+ VA - Petersburg,1870,18950,77
+ MA - Taunton,1870,18629,78
+ MA - Chelsea,1870,18547,79
+ IA - Dubuque,1870,18434,80
+ ME - Bangor,1870,18289,81
+ KS - Leavenworth,1870,17873,82
+ IN - Fort Wayne,1870,17718,83
+ IL - Springfield,1870,17364,84
+ NY - Auburn,1870,17225,85
+ NY - Newburgh,1870,17014,86
+ CT - Norwich,1870,16653,87
+ MI - Grand Rapids,1870,16507,88
+ CA - Sacramento,1870,16283,89
+ IN - Terre Haute,1870,16103,90
+ NE - Omaha,1870,16083,91
+ PA - Williamsport,1870,16030,92
+ NY - Elmira,1870,15863,93
+ IN - New Albany,1870,15396,94
+ GA - Augusta,1870,15389,95
+ MA - Gloucester,1870,15389,96
+ NY - Cohoes,1870,15357,97
+ KY - Newport,1870,15087,98
+ NJ - New Brunswick,1870,15058,99
+ IA - Burlington,1870,14930,100
+ NY - New York City,1860,813669,1
+ PA - Philadelphia,1860,565529,2
+ NY - Brooklyn,1860,266661,3
+ MD - Baltimore,1860,212418,4
+ MA - Boston,1860,177840,5
+ LA - New Orleans,1860,168675,6
+ OH - Cincinnati,1860,161044,7
+ MO - St. Louis,1860,160773,8
+ IL - Chicago,1860,112172,9
+ NY - Buffalo,1860,81129,10
+ NJ - Newark,1860,71941,11
+ KY - Louisville,1860,68033,12
+ NY - Albany,1860,62367,13
+ DC - Washington,1860,61122,14
+ CA - San Francisco,1860,56802,15
+ RI - Providence,1860,50666,16
+ PA - Pittsburgh,1860,49221,17
+ NY - Rochester,1860,48204,18
+ MI - Detroit,1860,45619,19
+ WI - Milwaukee,1860,45246,20
+ OH - Cleveland,1860,43417,21
+ SC - Charleston,1860,40522,22
+ CT - New Haven,1860,39267,23
+ NY - Troy,1860,39235,24
+ VA - Richmond,1860,37910,25
+ MA - Lowell,1860,36827,26
+ AL - Mobile,1860,29258,27
+ NJ - Jersey City,1860,29226,28
+ PA - Allegheny,1860,28702,29
+ NY - Syracuse,1860,28119,30
+ CT - Hartford,1860,26917,31
+ ME - Portland,1860,26341,32
+ MA - Cambridge,1860,26060,33
+ MA - Roxbury,1860,25137,34
+ MA - Charlestown,1860,25065,35
+ MA - Worcester,1860,24960,36
+ PA - Reading,1860,23162,37
+ TN - Memphis,1860,22623,38
+ NY - Utica,1860,22529,39
+ MA - New Bedford,1860,22300,40
+ GA - Savannah,1860,22292,41
+ MA - Salem,1860,22252,42
+ DE - Wilmington,1860,21258,43
+ NH - Manchester,1860,20107,44
+ OH - Dayton,1860,20081,45
+ NJ - Paterson,1860,19586,46
+ MA - Lynn,1860,19083,47
+ IN - Indianapolis,1860,18611,48
+ OH - Columbus,1860,18554,49
+ VA - Petersburg,1860,18266,50
+ MA - Lawrence,1860,17639,51
+ PA - Lancaster,1860,17603,52
+ NJ - Trenton,1860,17228,53
+ TN - Nashville,1860,16988,54
+ NY - Oswego,1860,16816,55
+ KY - Covington,1860,16471,56
+ ME - Bangor,1860,16407,57
+ MA - Taunton,1860,15376,58
+ MA - Springfield,1860,15199,59
+ NY - Poughkeepsie,1860,14726,60
+ VA - Norfolk,1860,14620,61
+ NJ - Camden,1860,14358,62
+ VA/WV - Wheeling,1860,14083,63
+ CT - Norwich,1860,14048,64
+ IL - Peoria,1860,14045,65
+ MA - Fall River,1860,14026,66
+ CA - Sacramento,1860,13785,67
+ OH - Toledo,1860,13768,68
+ IL - Quincy,1860,13718,69
+ PA - Harrisburg,1860,13405,70
+ MA - Newburyport,1860,13401,71
+ MA - Chelsea,1860,13395,72
+ IA - Dubuque,1860,13000,73
+ VA - Alexandria,1860,12652,74
+ IN - New Albany,1860,12647,75
+ NY - Newburgh,1860,12578,76
+ GA - Augusta,1860,12493,77
+ CT - Bridgeport,1860,12106,78
+ RI - North Providence,1860,11818,79
+ NJ - Elizabeth,1860,11567,80
+ IN - Evansville,1860,11484,81
+ IA - Davenport,1860,11267,82
+ NJ - New Brunswick,1860,11256,83
+ NY - Auburn,1860,10986,84
+ MA - Gloucester,1860,10904,85
+ NH - Concord,1860,10896,86
+ NY - Lockport,1860,10871,87
+ RI - Newport,1860,10508,88
+ MN - Saint Paul,1860,10401,89
+ CT - New London,1860,10115,90
+ NH - Nashua,1860,10065,91
+ KY - Newport,1860,10046,92
+ CT - Waterbury,1860,10004,93
+ MA - Haverhill,1860,9995,94
+ MA - Dorchester,1860,9769,95
+ NJ - Hoboken,1860,9662,96
+ GA - Columbus,1860,9621,97
+ NY - Schenectady,1860,9579,98
+ GA - Atlanta,1860,9554,99
+ NC - Wilmington,1860,9552,100
+ NY - New York City,1850,515547,1
+ MD - Baltimore,1850,169054,2
+ MA - Boston,1850,136881,3
+ PA - Philadelphia,1850,121376,4
+ LA - New Orleans,1850,116375,5
+ OH - Cincinnati,1850,115435,6
+ NY - Brooklyn,1850,96838,7
+ MO - St. Louis,1850,77860,8
+ PA - Spring Garden District,1850,58894,9
+ NY - Albany,1850,50763,10
+ PA - Northern Liberties,1850,47223,11
+ PA - Kensington,1850,46774,12
+ PA - Pittsburgh,1850,46601,13
+ KY - Louisville,1850,43194,14
+ SC - Charleston,1850,42985,15
+ NY - Buffalo,1850,42261,16
+ RI - Providence,1850,41513,17
+ DC - Washington,1850,40001,18
+ NJ - Newark,1850,38894,19
+ PA - Southwark,1850,38799,20
+ NY - Rochester,1850,36403,21
+ MA - Lowell,1850,33383,22
+ NY - Williamsburg,1850,30780,23
+ IL - Chicago,1850,29963,24
+ NY - Troy,1850,28785,25
+ VA - Richmond,1850,27570,26
+ PA - Moyamensing,1850,26979,27
+ NY - Syracuse,1850,22271,28
+ PA - Allegheny,1850,21262,29
+ MI - Detroit,1850,21019,30
+ ME - Portland,1850,20815,31
+ AL - Mobile,1850,20515,32
+ CT - New Haven,1850,20345,33
+ MA - Salem,1850,20264,34
+ WI - Milwaukee,1850,20061,35
+ MA - Roxbury,1850,18364,36
+ OH - Columbus,1850,17882,37
+ NY - Utica,1850,17565,38
+ MA - Charlestown,1850,17216,39
+ MA - Worcester,1850,17049,40
+ OH - Cleveland,1850,17034,41
+ MA - New Bedford,1850,16443,42
+ PA - Reading,1850,15743,43
+ GA - Savannah,1850,15312,44
+ MA - Cambridge,1850,15215,45
+ ME - Bangor,1850,14432,46
+ VA - Norfolk,1850,14326,47
+ MA - Lynn,1850,14257,48
+ LA - Lafayette,1850,14190,49
+ VA - Petersburg,1850,14010,50
+ DE - Wilmington,1850,13979,51
+ NH - Manchester,1850,13932,52
+ CT - Hartford,1850,13555,53
+ PA - Lancaster,1850,12369,54
+ NY - Oswego,1850,12205,55
+ MA - Springfield,1850,11766,56
+ MA - Fall River,1850,11524,57
+ NY - Poughkeepsie,1850,11511,58
+ VA/WV - Wheeling,1850,11435,59
+ NJ - Paterson,1850,11334,60
+ OH - Dayton,1850,10977,61
+ MA - Taunton,1850,10441,62
+ TN - Nashville,1850,10165,63
+ NH - Portsmouth,1850,9738,64
+ MA - Newburyport,1850,9572,65
+ RI - Newport,1850,9563,66
+ NY - Auburn,1850,9548,67
+ NJ - Camden,1850,9479,68
+ GA - Augusta,1850,9448,69
+ KY - Covington,1850,9408,70
+ CT - New London,1850,8991,71
+ NY - Schenectady,1850,8921,72
+ TN - Memphis,1850,8841,73
+ VA - Alexandria,1850,8734,74
+ AL - Montgomery,1850,8728,75
+ VA - Portsmouth,1850,8626,76
+ NH - Concord,1850,8576,77
+ MA - Nantucket,1850,8452,78
+ DC - Georgetown,1850,8366,79
+MA - Chicopee,1850,8291,80
+ MA - Lawrence,1850,8282,81
+ ME - Augusta,1850,8225,82
+ NH - Dover,1850,8196,83
+ IN - New Albany,1850,8181,84
+ KY - Lexington,1850,8159,85
+ MA - Danvers,1850,8109,86
+ IN - Indianapolis,1850,8091,87
+ VA - Lynchburg,1850,8071,88
+ ME - Bath,1850,8020,89
+ IN - Madison,1850,8012,90
+ MA - Dorchester,1850,7969,91
+ OH - Zanesville,1850,7929,92
+ PA - Harrisburg,1850,7834,93
+ MA - Gloucester,1850,7786,94
+ RI - Warwick,1850,7740,95
+ RI - North Providence,1850,7680,96
+ NY - Watervliet,1850,7564,97
+ PA - Pottsville,1850,7515,98
+ NC - Wilmington,1850,7264,99
+ PA - Easton,1850,7250,100
+ NY - New York City,1840,312710,1
+ MD - Baltimore,1840,102313,2
+ LA - New Orleans,1840,102193,3
+ PA - Philadelphia,1840,93665,4
+ MA - Boston,1840,93383,5
+ OH - Cincinnati,1840,46338,6
+ NY - Brooklyn,1840,36233,7
+ PA - Northern Liberties,1840,34474,8
+ NY - Albany,1840,33721,9
+ SC - Charleston,1840,29261,10
+ PA - Spring Garden District,1840,27849,11
+ PA - Southwark,1840,27548,12
+ DC - Washington,1840,23364,13
+ RI - Providence,1840,23171,14
+ PA - Kensington,1840,22314,15
+ KY - Louisville,1840,21210,16
+ PA - Pittsburgh,1840,21115,17
+ MA - Lowell,1840,20796,18
+ NY - Rochester,1840,20191,19
+ VA - Richmond,1840,20153,20
+ NY - Troy,1840,19334,21
+ NY - Buffalo,1840,18213,22
+ NJ - Newark,1840,17290,23
+ MO - St. Louis,1840,16469,24
+ ME - Portland,1840,15218,25
+ MA - Salem,1840,15082,26
+ PA - Moyamensing,1840,14573,27
+ CT - New Haven,1840,12960,28
+ NY - Utica,1840,12782,29
+ AL - Mobile,1840,12672,30
+ MA - New Bedford,1840,12087,31
+ MA - Charlestown,1840,11484,32
+ GA - Savannah,1840,11214,33
+ VA - Petersburg,1840,11136,34
+ MA - Springfield,1840,10985,35
+ VA - Norfolk,1840,10920,36
+ PA - Allegheny,1840,10089,37
+ CT - Hartford,1840,9468,38
+ MA - Lynn,1840,9367,39
+ MI - Detroit,1840,9102,40
+ MA - Roxbury,1840,9089,41
+ MA - Nantucket,1840,9012,42
+ ME - Bangor,1840,8627,43
+ VA - Alexandria,1840,8459,44
+ PA - Lancaster,1840,8417,45
+ PA - Reading,1840,8410,46
+ MA - Cambridge,1840,8409,47
+ DE - Wilmington,1840,8367,48
+ RI - Newport,1840,8333,49
+ NH - Portsmouth,1840,7887,50
+ VA/WV - Wheeling,1840,7885,51
+ MA - Taunton,1840,7645,52
+ NJ - Paterson,1840,7596,53
+ MA - Worcester,1840,7497,54
+ DC - Georgetown,1840,7312,55
+ MA - Newburyport,1840,7161,56
+ KY - Lexington,1840,6997,57
+ TN - Nashville,1840,6929,58
+ NY - Schenectady,1840,6784,59
+ MA - Fall River,1840,6738,60
+ RI - Warwick,1840,6726,61
+ VA - Portsmouth,1840,6477,62
+ NH - Dover,1840,6458,63
+ GA - Augusta,1840,6403,64
+ VA - Lynchburg,1840,6395,65
+ MA - Gloucester,1840,6350,66
+ OH - Cleveland,1840,6071,67
+ OH - Dayton,1840,6067,68
+ NH - Nashua,1840,6054,69
+ OH - Columbus,1840,6048,70
+ PA - Harrisburg,1840,5980,71
+ NY - Hudson,1840,5672,72
+ NY - Auburn,1840,5626,73
+ MA - Marblehead,1840,5575,74
+ CT - New London,1840,5519,75
+ NC - Wilmington,1840,5335,76
+ ME - Augusta,1840,5314,77
+ MA - Plymouth,1840,5281,78
+ RI - Cumberland,1840,5225,79
+ MA - Andover,1840,5207,80
+ MD - Frederick,1840,5182,81
+ ME - Bath,1840,5141,82
+ MA - Middleborough,1840,5085,83
+ ME - Gardiner,1840,5042,84
+ MA - Danvers,1840,5020,85
+ NH - Concord,1840,4897,86
+ MA - Dorchester,1840,4875,87
+ PA - Easton,1840,4865,88
+ PA - York,1840,4779,89
+ OH - Zanesville,1840,4766,90
+ MA - Beverly,1840,4689,91
+ IL - Chicago,1840,4470,92
+ PA - Carlisle,1840,4351,93
+ PA - Pottsville,1840,4345,94
+ SC - Columbia,1840,4340,95
+ MA - Haverhill,1840,4336,96
+ MA - Barnstable,1840,4301,97
+ NC - Fayetteville,1840,4285,98
+ OH - Steubenville,1840,4247,99
+ IN - New Albany,1840,4226,100
+ NY - New York City,1830,202589,1
+ MD - Baltimore,1830,80620,2
+ PA - Philadelphia,1830,80462,3
+ MA - Boston,1830,61392,4
+ LA - New Orleans,1830,46082,5
+ SC - Charleston,1830,30289,6
+ PA - Northern Liberties,1830,28872,7
+ OH - Cincinnati,1830,24831,8
+ NY - Albany,1830,24209,9
+ PA - Southwark,1830,20581,10
+ DC - Washington,1830,18826,11
+ RI - Providence,1830,16833,12
+ VA - Richmond,1830,16060,13
+ MA - Salem,1830,13895,14
+ PA - Kensington,1830,13394,15
+ ME - Portland,1830,12598,16
+ PA - Pittsburgh,1830,12568,17
+ NY - Brooklyn,1830,12406,18
+ NY - Troy,1830,11556,19
+ PA - Spring Garden District,1830,11140,20
+ NJ - Newark,1830,10953,21
+ KY - Louisville,1830,10341,22
+ CT - New Haven,1830,10180,23
+ VA - Norfolk,1830,9814,24
+ NY - Rochester,1830,9207,25
+ MA - Charlestown,1830,8783,26
+ NY - Buffalo,1830,8668,27
+ DC - Georgetown,1830,8441,28
+ NY - Utica,1830,8323,29
+ VA - Petersburg,1830,8322,30
+ VA - Alexandria,1830,8241,31
+ NH - Portsmouth,1830,8026,32
+ RI - Newport,1830,8010,33
+ PA - Lancaster,1830,7704,34
+ MA - New Bedford,1830,7592,35
+ MA - Gloucester,1830,7510,36
+ GA - Savannah,1830,7303,37
+ MA - Nantucket,1830,7202,38
+ CT - Hartford,1830,7074,39
+ PA - Moyamensing,1830,6822,40
+ MA - Springfield,1830,6784,41
+ GA - Augusta,1830,6710,42
+ MA - Lowell,1830,6474,43
+ MA - Newburyport,1830,6375,44
+ MA - Lynn,1830,6138,45
+ MA - Cambridge,1830,6072,46
+ MA - Taunton,1830,6042,47
+ KY - Lexington,1830,6026,48
+ PA - Reading,1830,5856,49
+ TN - Nashville,1830,5566,50
+ RI - Warwick,1830,5529,51
+ NH - Dover,1830,5449,52
+ NY - Hudson,1830,5392,53
+ MA - Roxbury,1830,5247,54
+ MA - Marblehead,1830,5149,55
+ MA - Middleborough,1830,5008,56
+ MO - St. Louis,1830,4977,57
+ MA - Plymouth,1830,4758,58
+ VA - Lynchburg,1830,4630,59
+ MA - Andover,1830,4530,60
+ MD - Frederick,1830,4427,61
+ CT - New London,1830,4335,62
+ PA - Harrisburg,1830,4312,63
+ NY - Schenectady,1830,4268,64
+ MA - Danvers,1830,4228,65
+ PA - York,1830,4216,66
+ MA - Worcester,1830,4173,67
+ MA - Fall River,1830,4158,68
+ MA - Dorchester,1830,4074,69
+ MA - Beverly,1830,4073,70
+ NJ - Trenton,1830,3925,71
+ NC - New Bern,1830,3796,72
+ NC - Wilmington,1830,3791,73
+ PA - Carlisle,1830,3707,74
+ PA - Easton,1830,3529,75
+ NJ - Elizabeth,1830,3455,76
+ MD - Hagerstown,1830,3371,77
+ SC - Columbia,1830,3310,78
+ VA - Fredericksburg,1830,3308,79
+ AL - Mobile,1830,3194,80
+ CT - Norwich,1830,3135,81
+ CT - Middletown,1830,3123,82
+ OH - Zanesville,1830,3094,83
+ OH - Dayton,1830,2950,84
+ OH - Steubenville,1830,2937,85
+ NC - Fayetteville,1830,2868,86
+ OH - Chillicothe,1830,2846,87
+ PA - Allegheny,1830,2801,88
+ MS - Natchez,1830,2789,89
+ MD - Annapolis,1830,2623,90
+ NY - New York City,1820,123706,1
+ PA - Philadelphia,1820,63802,2
+ MD - Baltimore,1820,62738,3
+ MA - Boston,1820,43298,4
+ LA - New Orleans,1820,27176,5
+ SC - Charleston,1820,24780,6
+ PA - Northern Liberties,1820,19678,7
+ PA - Southwark,1820,14713,8
+ DC - Washington,1820,13247,9
+ MA - Salem,1820,12731,10
+ NY - Albany,1820,12630,11
+ VA - Richmond,1820,12067,12
+ RI - Providence,1820,11767,13
+ OH - Cincinnati,1820,9642,14
+ ME - Portland,1820,8581,15
+ VA - Norfolk,1820,8478,16
+ VA - Alexandria,1820,8218,17
+ GA - Savannah,1820,7523,18
+ DC - Georgetown,1820,7360,19
+ NH - Portsmouth,1820,7327,20
+ RI - Newport,1820,7319,21
+ MA - Nantucket,1820,7266,22
+ PA - Pittsburgh,1820,7248,23
+ NY - Brooklyn,1820,7175,24
+ CT - New Haven,1820,7147,25
+ PA - Kensington,1820,7118,26
+ MA - Newburyport,1820,6852,27
+ VA - Petersburg,1820,6690,28
+ PA - Lancaster,1820,6633,29
+ MA - Charlestown,1820,6591,30
+ MA - Gloucester,1820,6384,31
+ MA - Marblehead,1820,5630,32
+ NY - Hudson,1820,5310,33
+ KY - Lexington,1820,5279,34
+ NY - Troy,1820,5264,35
+ CT - Hartford,1820,4726,36
+ MA - Middleborough,1820,4687,37
+ MA - Taunton,1820,4520,38
+ MA - Lynn,1820,4515,39
+ MA - Plymouth,1820,4348,40
+ PA - Reading,1820,4332,41
+ MA - Beverly,1820,4283,42
+ MA - Roxbury,1820,4135,43
+ KY - Louisville,1820,4012,44
+ MA - New Bedford,1820,3947,45
+ NJ - Trenton,1820,3942,46
+ NY - Schenectady,1820,3939,47
+ NC - New Bern,1820,3663,48
+ MD - Frederick,1820,3640,49
+ PA - York,1820,3545,50
+ NC - Fayetteville,1820,3532,51
+ NJ - Elizabeth,1820,3515,52
+ PA - Spring Garden District,1820,3498,53
+ CT - Norwich,1820,2983,54
+ NY - Utica,1820,2972,55
+ PA - Carlisle,1820,2908,56
+ NC - Raleigh,1820,2674,57
+ NC - Wilmington,1820,2633,58
+ CT - Middletown,1820,2618,59
+ CT - New London,1820,333,60
+ PA - Harrisburg,1820,299,61
+ NY - New York City,1810,96373,1
+ PA - Philadelphia,1810,53722,2
+ MD - Baltimore,1810,46555,3
+ MA - Boston,1810,33787,4
+ SC - Charleston,1810,24711,5
+ PA - Northern Liberties,1810,19874,6
+ LA - New Orleans,1810,17242,7
+ PA - Southwark,1810,13707,8
+ MA - Salem,1810,12613,9
+ NY - Albany,1810,10762,10
+ RI - Providence,1810,10071,11
+ VA - Richmond,1810,9735,12
+ VA - Norfolk,1810,9193,13
+ DC - Washington,1810,8208,14
+ RI - Newport,1810,7907,15
+ MA - Newburyport,1810,7634,16
+ VA - Alexandria,1810,7227,17
+ ME - Portland,1810,7169,18
+ NH - Portsmouth,1810,6934,19
+ MA - Nantucket,1810,6807,20
+ MA - Gloucester,1810,5943,21
+ NY - Schenectady,1810,5903,22
+ MA - Marblehead,1810,5900,23
+ CT - New Haven,1810,5772,24
+ VA - Petersburg,1810,5668,25
+ MA - New Bedford,1810,5651,26
+ PA - Lancaster,1810,5405,27
+ GA - Savannah,1810,5215,28
+ MA - Charlestown,1810,4959,29
+ DC - Georgetown,1810,4948,30
+ PA - Pittsburgh,1810,4768,31
+ MA - Beverly,1810,4608,32
+ NY - Brooklyn,1810,4402,33
+ MA - Middleborough,1810,4400,34
+ KY - Lexington,1810,4326,35
+ MA - Plymouth,1810,4228,36
+ MA - Lynn,1810,4087,37
+ NY - Hudson,1810,4048,38
+ CT - Hartford,1810,3955,39
+ PA - Reading,1810,3462,40
+ CT - New London,1810,3238,41
+ NJ - Trenton,1810,3002,42
+ NJ - Elizabeth,1810,2977,43
+ CT - Norwich,1810,2976,44
+ PA - York,1810,2847,45
+ OH - Cincinnati,1810,2540,46
+ NY - New York City,1800,60515,1
+ PA - Philadelphia,1800,41220,2
+ MD - Baltimore,1800,26514,3
+ MA - Boston,1800,24937,4
+ SC - Charleston,1800,18824,5
+ PA - Northern Liberties,1800,10718,6
+ PA - Southwark,1800,9621,7
+ MA - Salem,1800,9457,8
+ RI - Providence,1800,7614,9
+ VA - Norfolk,1800,6926,10
+ RI - Newport,1800,6739,11
+ MA - Newburyport,1800,5946,12
+ VA - Richmond,1800,5737,13
+ MA - Nantucket,1800,5617,14
+ NH - Portsmouth,1800,5339,15
+ MA - Gloucester,1800,5313,16
+ NY - Albany,1800,5289,17
+ NY - Schenectady,1800,5289,18
+ MA - Marblehead,1800,5211,19
+ CT - New London,1800,5150,20
+ GA - Savannah,1800,5146,21
+ VA - Alexandria,1800,4971,22
+ MA - Middleborough,1800,4458,23
+ MA - New Bedford,1800,4361,24
+ PA - Lancaster,1800,4292,25
+ CT - New Haven,1800,4049,26
+ ME - Portland,1800,3704,27
+ NY - Hudson,1800,3664,28
+ CT - Hartford,1800,3523,29
+ VA - Petersburg,1800,3521,30
+ DC - Washington,1800,3210,31
+ DC - Georgetown,1800,2993,32
+ PA - York,1800,2503,33
+ NY - New York City,1790,33131,1
+ PA - Philadelphia,1790,28522,2
+ MA - Boston,1790,18320,3
+ SC - Charleston,1790,16359,4
+ MD - Baltimore,1790,13503,5
+ PA - Northern Liberties,1790,9913,6
+ MA - Salem,1790,7921,7
+ RI - Newport,1790,6716,8
+ RI - Providence,1790,6380,9
+ PA - Southwark,1790,5661,10
+ MA - Marblehead,1790,5661,11
+ MA - Gloucester,1790,5317,12
+ MA - Newburyport,1790,4837,13
+ NH - Portsmouth,1790,4720,14
+ MA - Nantucket,1790,4620,15
+ MA - Middleborough,1790,4526,16
+ CT - New Haven,1790,4487,17
+ VA - Richmond,1790,3761,18
+ NY - Albany,1790,3498,19
+ VA - Norfolk,1790,2959,20
+ VA - Petersburg,1790,2828,21
+ VA - Alexandria,1790,2748,22
+ CT - Hartford,1790,2683,23
+ NY - Hudson,1790,2584,24
